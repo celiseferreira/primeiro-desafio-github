@@ -1,0 +1,8 @@
+Link para baixar git
+
+https://git-scm.com/downloads
+
+O git é uma ferramenta para armazenar versionamento de códigos.
+O git Bash é um terminal extendido para otimizar o uso do Git.
+
+Baixei o editor Monster Markdown para edições .md
